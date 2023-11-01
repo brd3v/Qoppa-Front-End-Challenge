@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.row{
+  display: flex;
+  flex-direction: column;
+}
+
+.btn{
+  margin-top: 1rem;
+}
+
+h2{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: cursive;
+  color: #198754
+ 
+}
